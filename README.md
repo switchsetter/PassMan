@@ -6,3 +6,6 @@
 * or regular password if desired.
 * built in password generator.
 * built in password weakness gauge.
+* can run from usb stick
+
+See ReadMe.pdf for install instructions.
